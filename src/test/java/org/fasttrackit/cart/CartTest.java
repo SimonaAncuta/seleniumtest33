@@ -74,7 +74,7 @@ public class CartTest {
 
     public class CartTest {
 
-        @Test 
+        @Test
         public void checkSizeAndColor() {
             System.setProperty("webdriver.chrome.driver",
                     AppConfig.getChromeDriverPath());
